@@ -26,3 +26,12 @@ When the ranger finds a danger, they can choose to fight them or hide and wait f
     - Goes back to the initial cell
     - Loses 3 gongs of time
     - The Danger remains in the cell
+
+## Notes:
+
+- If the Ranger move to a cell with no dangers
+    - Loses 1 gong of time
+      
+- The game ends when either:
+    - The ranger rescues the group of tourists.
+    - The time expires and the fate of the tourists is forever unknown.
